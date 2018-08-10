@@ -40,5 +40,11 @@
         "branch-alias": {
             "dev-develop": "0.7-dev"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:Vinelab/ar-php.git"
+        }
+    ]
 }
